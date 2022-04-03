@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:db;DB_CLOSE_DELAY=-1
+    username: sa
+    password: sa
+
+twitter:
+  bearerToken: AAAAAAAAAAAAAAAAAAAAAEPzawEAAAAAHKVBA8BbZmUcnP0K6KTV1qmPQ4E%3D9hXv3E77WU7DDt0P4Z08waUL1ANcTf4aIPJbaojwaICxzggme5

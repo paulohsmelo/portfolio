@@ -1,0 +1,13 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+
+  datasource:
+    url: jdbc:mysql://zemoga-test-db.crhpedy9xxto.us-east-1.rds.amazonaws.com:3306/zemoga_test_db
+    username: zemoga_test_db
+    password: Zem0ga.101
+    driver-class-name: com.mysql.jdbc.Driver
+
+twitter:
+  bearerToken: AAAAAAAAAAAAAAAAAAAAAEPzawEAAAAAHKVBA8BbZmUcnP0K6KTV1qmPQ4E%3D9hXv3E77WU7DDt0P4Z08waUL1ANcTf4aIPJbaojwaICxzggme5
